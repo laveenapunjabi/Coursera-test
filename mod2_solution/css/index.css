@@ -1,0 +1,41 @@
+body {
+	background-image: linear-gradient(to right, #0F2AB3, #343FD2, #3D7AE9, #53B2F5, #68E4F3);
+}
+
+h1 {
+	text-align: center;
+	font-size: 150px;
+}
+
+#h {
+	color: white;
+	margin-top:-100px;
+	text-align: center;
+	font-size: 120px;
+}
+
+article img {
+	width: 200px;
+	height: 180px;
+	padding: 10px;
+
+	
+}
+
+article {
+	display: inline-block;
+	background-position: center;
+	margin-left:50px;
+	text-align: center;
+	padding: 12px;
+	width: 400px;
+}
+
+h2 {
+	color: #F5103B;
+	font-size: 40px;
+}
+
+p {
+	font-size: 20px;
+}
